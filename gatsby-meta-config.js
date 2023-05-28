@@ -1,16 +1,12 @@
 module.exports = {
   title: `purin48`,
-  description: `Blog posted about ...`,
+  description: `purin's blog`,
   author: `purin48`,
   introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
   siteUrl: `https://purin48.github.io/`, // Your blog site url
   social: {
-    twitter: ``, // Your Twitter account
-    github: ``, // Your GitHub account
-    medium: ``, // Your Medium account
-    facebook: ``, // Your Facebook account
-    linkedin: ``, // Your LinkedIn account
-    instagram: ``, // Your Instagram account
+    github: `purin48/purin48.github.io/`, // Your GitHub account
+    linkedin: `in/somin-lee-4159a0271/`, // Your LinkedIn account
   },
   icon: `content/assets/felog.png`, // Add your favicon
   keywords: [`blog`],
