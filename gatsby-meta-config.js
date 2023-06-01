@@ -6,7 +6,7 @@ module.exports = {
   siteUrl: `https://purin48.github.io/`, // Your blog site url
   social: {
     github: `purin48`, // Your GitHub account
-    linkedin: `somin-lee-4159a0271/`, // Your LinkedIn account
+    linkedin: `somin-lee-4159a0271`, // Your LinkedIn account
   },
   icon: `content/assets/felog.png`, // Add your favicon
   keywords: [
